@@ -19,3 +19,9 @@ C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\refint\
 C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\GottaBowl.pdb
 C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\GottaBowl.genruntimeconfig.cache
 C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\ref\GottaBowl.dll
+C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\View\FrameView.g.cs
+C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\View\GameView.g.cs
+C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\App.baml
+C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\View\FrameView.baml
+C:\Users\lucys\source\repos\GottaBowl\GottaBowl\obj\Debug\net6.0-windows\View\GameView.baml

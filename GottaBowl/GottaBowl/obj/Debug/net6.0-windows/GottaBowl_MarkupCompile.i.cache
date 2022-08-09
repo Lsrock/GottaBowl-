@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\lucys\source\repos\GottaBowl\GottaBowl\App.xaml
-11407045341
+3-1658948504
 
-5627761455
+9-638599018
 1942007414746
-MainWindow.xaml;
+MainWindow.xaml;View\FrameView.xaml;View\GameView.xaml;
 
-False
+True
 

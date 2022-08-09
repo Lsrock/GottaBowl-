@@ -4,9 +4,11 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:GottaBowl"
+        xmlns:view="clr-namespace:GottaBowl.View"
         mc:Ignorable="d"
-        Title="Gotta Bowl!" Background="Lavender" Height="450" Width="800">
-    <Grid>
-
-    </Grid>
+        WindowStartupLocation="CenterScreen"
+        Title="Gotta Bowl!" Background="AliceBlue">
+    <StackPanel>
+        <view:GameView x:Name="Game"/>
+    </StackPanel>
 </Window>
